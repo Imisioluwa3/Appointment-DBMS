@@ -1,3 +1,5 @@
+CREATE DATABASE Hospital;
+
 -- Step 1: Create the Doctor table
 CREATE TABLE Doctor (
     doctor_id INT PRIMARY KEY AUTO_INCREMENT, 
